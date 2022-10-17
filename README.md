@@ -1,5 +1,5 @@
-##Hello! Welcome to my git practice file
-//for headers only use # at the frontgit
-This will help you understand get and more complicated procedures
+#Hello! Welcome to my git practice file
 
-testing .. changing code
+//for headers only use # at the front
+
+##This will help you understand get and more complicated procedures
